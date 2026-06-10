@@ -62,7 +62,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/fahtinurai/test_praktik_coba_ade</url>
+            <url>https://maven.pkg.github.com/aditya-0122/test_praktik_coba_ade</url>
         </repository>
     </distributionManagement>
 
